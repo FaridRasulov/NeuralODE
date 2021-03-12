@@ -1,3 +1,7 @@
+# CLICK HERE TO SEE THE PDF:
+
+https://github.com/FaridRasulov/NeuralODE/blob/master/Adversarial_Robustness_of_Neural_Ordinary_Differential_Equations.pdf
+
 # CLICK HERE TO SEE THE NOTEBOOK:
 
 https://nbviewer.jupyter.org/github/FaridRasulov/NeuralODE/blob/master/Thesis_Code.ipynb
